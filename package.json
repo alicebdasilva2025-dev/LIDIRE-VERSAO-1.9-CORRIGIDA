@@ -1,0 +1,9 @@
+{
+  "name": "lidire-mvp-1-8-push",
+  "version": "1.8.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
